@@ -1,0 +1,99 @@
+@font-face {
+  font-family: 'hypergroup';
+  src:  url('fonts/hypergroup.eot?c560q6');
+  src:  url('fonts/hypergroup.eot?c560q6#iefix') format('embedded-opentype'),
+    url('fonts/hypergroup.ttf?c560q6') format('truetype'),
+    url('fonts/hypergroup.woff?c560q6') format('woff'),
+    url('fonts/hypergroup.svg?c560q6#hypergroup') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="hypicon-"], [class*=" hypicon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'hypergroup' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.hypicon-whatsapp:before {
+  content: "\e915";
+}
+.hypicon-youtube:before {
+  content: "\e916";
+}
+.hypicon-instagram:before {
+  content: "\e917";
+}
+.hypicon-facebook:before {
+  content: "\e914";
+}
+.hypicon-server-1:before {
+  content: "\e900";
+}
+.hypicon-server-2:before {
+  content: "\e901";
+}
+.hypicon-social-media:before {
+  content: "\e902";
+}
+.hypicon-vector:before {
+  content: "\e903";
+}
+.hypicon-analytics-1:before {
+  content: "\e904";
+}
+.hypicon-badge:before {
+  content: "\e905";
+}
+.hypicon-benchmark:before {
+  content: "\e906";
+}
+.hypicon-billboard:before {
+  content: "\e907";
+}
+.hypicon-billboard-1:before {
+  content: "\e908";
+}
+.hypicon-bullhorn:before {
+  content: "\e909";
+}
+.hypicon-computer:before {
+  content: "\e90a";
+}
+.hypicon-conversation:before {
+  content: "\e90b";
+}
+.hypicon-creativity:before {
+  content: "\e90c";
+}
+.hypicon-creativity-1:before {
+  content: "\e90d";
+}
+.hypicon-customer-service:before {
+  content: "\e90e";
+}
+.hypicon-data:before {
+  content: "\e90f";
+}
+.hypicon-decorating:before {
+  content: "\e910";
+}
+.hypicon-ecology:before {
+  content: "\e911";
+}
+.hypicon-global:before {
+  content: "\e912";
+}
+.hypicon-project-management-1:before {
+  content: "\e913";
+}

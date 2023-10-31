@@ -1,0 +1,87 @@
+@font-face {
+  font-family: 'hypergroup';
+  src:  url('fonts/hypergroup.eot?93zmgc');
+  src:  url('fonts/hypergroup.eot?93zmgc#iefix') format('embedded-opentype'),
+    url('fonts/hypergroup.ttf?93zmgc') format('truetype'),
+    url('fonts/hypergroup.woff?93zmgc') format('woff'),
+    url('fonts/hypergroup.svg?93zmgc#hypergroup') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="hyper-"], [class*=" hyper-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'hypergroup' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.hyper-billboard-1:before {
+  content: "\e900";
+}
+.hyper-bullhorn:before {
+  content: "\e901";
+}
+.hyper-benchmark:before {
+  content: "\e902";
+}
+.hyper-computer:before {
+  content: "\e903";
+}
+.hyper-server-2:before {
+  content: "\e904";
+}
+.hyper-data:before {
+  content: "\e905";
+}
+.hyper-vector:before {
+  content: "\e906";
+}
+.hyper-server-1:before {
+  content: "\e907";
+}
+.hyper-conversation:before {
+  content: "\e908";
+}
+.hyper-customer-service:before {
+  content: "\e909";
+}
+.hyper-badge:before {
+  content: "\e90a";
+}
+.hyper-creativity-1:before {
+  content: "\e90b";
+}
+.hyper-project-management-1:before {
+  content: "\e90c";
+}
+.hyper-billboard:before {
+  content: "\e90d";
+}
+.hyper-decorating:before {
+  content: "\e90e";
+}
+.hyper-creativity:before {
+  content: "\e90f";
+}
+.hyper-global:before {
+  content: "\e910";
+}
+.hyper-analytics-1:before {
+  content: "\e911";
+}
+.hyper-social-media:before {
+  content: "\e912";
+}
+.hyper-ecology:before {
+  content: "\e913";
+}
